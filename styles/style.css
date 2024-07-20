@@ -56,7 +56,7 @@ input{
     border-radius: 20px 10px;
     border: none;
     margin-top: 1em;
-    color: #2f4a33;
+    color: #219f34;
 }
 ul{
     display: flex;
@@ -67,6 +67,6 @@ h1{
     color: #fff;
 }
 header{
-    background: #2f4a33;
+    background: #219f34;
     padding: 2em;
 }
